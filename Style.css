@@ -1,0 +1,20 @@
+body{
+    background-color: darkslategray;
+}
+
+h1 {
+    color: greenyellow;
+    transition: all 2s;
+}
+h1:hover {
+    transform: skew(20deg);
+}
+p strong {
+    color: red;
+}
+#satu {
+    border: 5px dotted rebeccapurple;
+    padding: 10px;
+    margin: 50px 20px 60px 10px; /* margin dengan aturan 4 nilai pada 4 sisinya */
+    color: royalblue;
+}
